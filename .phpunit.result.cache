@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"Tests\\Feature\\RankingTest::testExample":3,"Tests\\Feature\\RankingTest::testSemRanking":3},"times":{"Warning":0.005,"Tests\\Feature\\RankingTest::testExample":0.099,"Tests\\Feature\\RankingTest::testRanking":0.128,"Tests\\Feature\\RankingTest::testSemRanking":0.007,"Tests\\Feature\\RankingTest::testRankingSemRota":0.009}}
