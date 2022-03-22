@@ -34,7 +34,7 @@ class RankingController extends Controller
             return response($data,200);
 
         }catch(\Exception $e){
-            response($e->getMessage(),500);
+            return response($e->getMessage(),500);
         }
 
     }
